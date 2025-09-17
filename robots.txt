@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: http:/netlab.csie.ntut.edu.tw/sitemap.xml
+Host: netlab.csie.ntut.edu.tw
